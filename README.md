@@ -11,8 +11,7 @@
   <p>São recursos que fui encontando para ajudar-me nos estudos.</p>
 </div>
 
-## 📖 Índice
-
+## 📖 1º Ano (1º semestre)
 - [Algébra Linear e Geometria Analítica](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/ALGA)
 - [Cálculo I](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/C1)
 - [Introdução a Engenharia Informática](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/IEI)
