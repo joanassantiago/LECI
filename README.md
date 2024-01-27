@@ -13,7 +13,7 @@
 
 ## 📖 Índice
 
-- [ALGA]((https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/ALGA))
-- [C1](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/C1)
-- [IEI](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/IEI)
-- [ISD](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/ISD)
+- [Algébra Linear e Geometria Analítica](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/ALGA)
+- [Cálculo I](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/C1)
+- [Introdução a Engenharia Informática](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/IEI)
+- [Introdução a Sistemas Inteligentes](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/ISD)
