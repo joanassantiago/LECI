@@ -15,5 +15,5 @@
 - [Algébra Linear e Geometria Analítica](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/ALGA)
 - [Cálculo I](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/C1)
 - [Introdução a Engenharia Informática](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/IEI)
-- [Introdução a Sistemas Inteligentes](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/ISD)
+- [Introdução a Sistemas Digitais](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/ISD)
 - [Fundamentos da Programação](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/FP)
