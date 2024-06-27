@@ -17,3 +17,10 @@
 - [Introdução a Engenharia Informática](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/IEI)
 - [Introdução a Sistemas Digitais](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/ISD)
 - [Fundamentos da Programação](https://github.com/joanassantiago/LECI/tree/main/1%20ano/1%20semestre/FP)
+
+## 📖 1º Ano (2º semestre)
+- [Cálculo II](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/C2)
+- [Laboratórios de Informática](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/LI)
+- [Laboratórios de Sitemas Digitais](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/LSD)
+- [Matemática Discreta](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/MD/Testes)
+- [Programação Orientada a Objetos](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/POO)
