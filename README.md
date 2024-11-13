@@ -24,3 +24,10 @@
 - [Laboratórios de Sitemas Digitais](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/LSD)
 - [Matemática Discreta](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/MD/Testes)
 - [Programação Orientada a Objetos](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/POO)
+
+## 📖 2º Ano (1º semestre)
+- [Arquitetura de Computadores](https://github.com/joanassantiago/LECI/tree/main/2oAno/1semestre/AC1)
+- [Algoritmos e Estruturas de Dados](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/AED)
+- [Competências Tranferiveis I](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/CT1)
+- [Mecânica e Campo Eletromagnético](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/MD/MCE)
+- [Redes de Comunicação](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/RC1)
