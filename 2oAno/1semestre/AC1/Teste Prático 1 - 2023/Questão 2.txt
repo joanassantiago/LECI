@@ -1,0 +1,18 @@
+Questão 2
+void main(void)
+{
+ static char str[] = "Teste-Pratico-1";
+ char cc;
+ char *ms = str;
+ while (*ms != '\0') {
+ cc = *ms;
+ if (cc < '0') {
+ *ms = '*';
+ } else {
+ if (cc >= 'a' && cc <= 'z') {
+ *ms = *ms - 0x20;
+ }
+ }
+ ms++;
+ }
+}

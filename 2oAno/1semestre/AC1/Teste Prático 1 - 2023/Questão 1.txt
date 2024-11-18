@@ -1,0 +1,19 @@
+Questão 1
+void main(void)
+{
+ int num, i;
+ int order = -1;
+ num = read_int();
+ i = 0;
+ do {
+ if ((num & 1) == 1)
+ order = i;
+ num = num >> 1;
+ i++;
+ } while (i < 32);
+ if (order != -1)
+ print_int10(order);
+ else
+ print_string("No set bits\n");
+}
+
