@@ -1,3 +1,22 @@
+int checkp(int);
+
+int treat(int *array, int low, int high)
+{
+    int i, npr;
+    int *p = array;
+
+    for (i = low + 1, npr = 0; i < high; i++) 
+    {
+        if (checkp(i) == 1) {
+            *array = i;
+            array++;
+            npr++;
+        }
+    }
+    *(p + npr) = npr;
+    return npr;
+}
+
 # array: $s1
 # low  : $s2
 # high : $s3

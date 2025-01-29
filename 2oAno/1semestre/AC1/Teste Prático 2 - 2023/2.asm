@@ -1,3 +1,22 @@
+float proc(double *array, double thd, double val, int n)
+{
+    int i;
+    double aux, sum;
+
+    sum = 0.0;
+    for (i = 0; i < n; i++) {
+        aux = array[i] + val;
+        if (aux > thd) {
+            array[i] = thd;
+            sum += thd;
+        } else {
+            array[i] = aux;
+            sum += aux;
+        }
+    }
+    return (float) (sum / (double) n);
+}
+
 #array:	$t1
 #thd:	$f2
 #val:	$f4
