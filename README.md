@@ -27,8 +27,15 @@
 - [Programação Orientada a Objetos](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/POO)
 
 ## 📖 2º Ano (1º semestre)
-- [Arquitetura de Computadores](https://github.com/joanassantiago/LECI/tree/main/2oAno/1semestre/AC1)
+- [Arquitetura de Computadores 1](https://github.com/joanassantiago/LECI/tree/main/2oAno/1semestre/AC1)
 - [Algoritmos e Estruturas de Dados](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/AED)
 - [Competências Tranferiveis I](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/CT1)
 - [Mecânica e Campo Eletromagnético](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/MD/MCE)
-- [Redes de Comunicação](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/RC1)
+- [Redes de Comunicação 1](https://github.com/joanassantiago/LECI/tree/main/1%20ano/2%20semestre/RC1)
+
+## 📖 2º Ano (2º semestre)
+- [Arquitetura de Computadores 2](https://github.com/joanassantiago/LECI/tree/main/2oAno/2%20semestre/AC2)
+- [Análise de Sistemas](https://github.com/joanassantiago/LECI/tree/main/2oAno/2%20semestre/AS)
+- [Competências Tranferiveis II](https://github.com/joanassantiago/LECI/tree/main/2oAno/2%20semestre/CT2/PW)
+- [Redes de Comunicação 2](https://github.com/joanassantiago/LECI/tree/main/2oAno/2%20semestre/RC2)
+- [Sinais e Sistemas Eletrónicos](https://github.com/joanassantiago/LECI/tree/main/2oAno/2%20semestre/SSE)
