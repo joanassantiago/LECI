@@ -9,7 +9,7 @@
 <div align="center">
   <p>Aqui podes encontrar exercicios e exames, alguns estão feitos e outros não.</p>
   <p>São recursos que fui encontando para ajudar-me nos estudos.</p>
-  <p>⚠️Atenção nem tudo o que está aqui é de minha autoria</p>
+  <p>⚠️ Atenção nem tudo o que está aqui é de minha autoria ⚠️</p>
 </div>
 
 ## 📖 1º Ano (1º semestre)
